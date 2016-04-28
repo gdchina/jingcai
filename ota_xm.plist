@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.data-well.com/download/ota_xm.ipa</string>
+					<string>https://bdownload.beacool.com/download/ota_xm.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gieseckedevrient.band2</string>
+				<string>com.gieseckedevrient.bandtest</string>
 				<key>bundle-version</key>
-				<string>0.5</string>
+				<string>2.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>捷拍手环</string>
+				<string>捷拍穿戴</string>
 			</dict>
 		</dict>
 	</array>
